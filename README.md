@@ -1,4 +1,4 @@
-### Hi there 👋
+# Kyle Rodriguez 
 
 <!--
 **kyleanthonyr/kyleanthonyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Data Network](data_net.jpeg)
+
+A machine learning and data science enthusiast excited about making an impact in businesses and organizations by harnessing the power of a data-drive approach to problem solving and improvements.
+
+By combining my background in biochemistry with a love for technology, specifically in the areas of energy forecasting, sentiment analysis through unstructured text data, and computer vision, my aim is to bridge these domains and create impactful solutions.
+
+📧 Quickest way to reach me: kylearodriguez10@gmail.com
